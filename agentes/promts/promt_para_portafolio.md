@@ -1,0 +1,7 @@
+Revisa el diseño y la estructura de https://kurusudes.github.io/ para usarlo como referencia visual. Luego consulta mis repositorios públicos de GitHub en https://api.github.com/users/Diego27SEN/repos (usa curl o PowerShell si es necesario) para extraer mis proyectos reales.
+
+Con esa información, crea una página web portafolio moderna en tema oscuro, limpia y responsiva usando HTML, CSS y JavaScript puro (archivos index.html, styles.css y script.js) aquí mismo en la raíz del proyecto. Debe incluir:
+1. Inicio (Hero): Mi nombre (Diego Benites), estudiante de Diseño y Desarrollo de Videojuegos, una descripción corta de lo que hago y botones directos a mi GitHub (https://github.com/Diego27SEN) y a la sección de contacto.
+2. Sobre mí: Perfil profesional destacando tanto mi enfoque técnico en desarrollo de videojuegos como mis habilidades blandas (trabajo en equipo, organización, resolución de problemas y aprendizaje continuo).
+3. Proyectos Destacados: Tarjetas con mis repositorios reales de GitHub (nombre limpio del proyecto, descripción clara de lo que hace, etiquetas de tecnologías como Unity, Unreal Engine 5, C#, C++, Git, y botón para ver el código en GitHub).
+4. Habilidades y Contacto: Lista ordenada de herramientas, motores y lenguajes (Unity, Unreal Engine 5, C#, C++, 3ds Max, Blender, Git/GitHub), más una sección final de contacto, junto a mi perfil de Upwork https://www.upwork.com/freelancers/~01a2d9743312f8c9af?mp_source=share.
